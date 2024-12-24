@@ -20,11 +20,11 @@ This project aims to develop an early detection system for kidney cancer by inte
 
 ## Folder Structure
 
-├── Dataset/ # Zipped files and patient data Excel (stored in Google Drive)
-├── unzipped_scans/ # Unzipped CT scans for each patient (stored in Google Drive)
-├── Detection.py # Python code for feature extraction and analysis
-├── .gitignore # Ignored files
-├── README.md # Project description and instructions
+'''├── Dataset/ # Zipped files and patient data Excel (stored in Google Drive)'''
+'''├── unzipped_scans/ # Unzipped CT scans for each patient (stored in Google Drive)'''
+'''├── Detection.py # Python code for feature extraction and analysis'''
+'''├── .gitignore # Ignored files'''
+'''├── README.md # Project description and instructions'''
 
 ## Data Availability
 
