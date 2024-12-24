@@ -30,4 +30,4 @@ This project aims to develop an early detection system for kidney cancer by inte
 
 The dataset and unzipped scans are too large for GitHub. You can download them from the following links:
 
-- [Dataset (zipped files and Excel)]([https://drive.google.com/your-dataset-link](https://drive.google.com/drive/folders/1IQbs6WpxOvAZoQMeeqOu-qdVSOjAp19i?usp=drive_link))
+- [Dataset (zipped files and Excel)](https://drive.google.com/drive/folders/1IQbs6WpxOvAZoQMeeqOu-qdVSOjAp19i?usp=drive_link)
