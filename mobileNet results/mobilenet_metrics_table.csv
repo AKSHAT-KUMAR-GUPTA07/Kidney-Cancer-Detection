@@ -1,0 +1,2 @@
+Model,True Positives,False Positives,True Negatives,False Negatives,True Positive Rate,False Positive Rate,Precision,True Negative Rate,F1-Score,AUC Score,Accuracy,CV Scores,CV Score Mean
+MobileNet,2220,29,2269,63,0.9724,0.0126,0.9871,0.9874,0.9797,0.9989,0.9799,"[np.float64(0.9049), np.float64(0.8859), np.float64(0.9094), np.float64(0.9357), np.float64(0.883)]",0.9038

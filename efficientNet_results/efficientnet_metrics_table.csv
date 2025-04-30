@@ -1,0 +1,2 @@
+Model,True Positives,False Positives,True Negatives,False Negatives,True Positive Rate,False Positive Rate,Precision,True Negative Rate,F1-Score,AUC Score,Accuracy,CV Scores,CV Score Mean
+EfficientNet,2261,38,2260,22,0.9904,0.0165,0.9835,0.9835,0.9869,0.9982,0.9869,"[np.float64(0.9049), np.float64(0.8859), np.float64(0.9094), np.float64(0.9357), np.float64(0.883)]",0.9038

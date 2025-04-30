@@ -1,0 +1,2 @@
+Model,True Positives,False Positives,True Negatives,False Negatives,True Positive Rate,False Positive Rate,Precision,True Negative Rate,F1-Score,AUC Score,Accuracy,CV Scores,CV Score Mean
+VGG16,2271,84,2214,137,0.9431,0.0366,0.9643,0.9634,0.9536,0.9656,0.953,"[np.float64(0.9049), np.float64(0.8859), np.float64(0.9094), np.float64(0.9357), np.float64(0.883)]",0.9038

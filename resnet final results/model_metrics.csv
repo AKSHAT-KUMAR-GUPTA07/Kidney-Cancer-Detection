@@ -1,0 +1,2 @@
+,True Positives,False Positives,True Negatives,False Negatives,True Positive Rate,False Positive Rate,Precision,True Negative Rate,F1-Score,AUC Score,Accuracy
+kidney_tumor_resnet_model.pth,2152.0,20.0,2278.0,131.0,0.9426,0.0087,0.9908,0.9913,0.9661,0.9974,0.967
